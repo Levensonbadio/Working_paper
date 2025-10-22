@@ -1,0 +1,43 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://pubs.aeaweb.org/doi/10.1257/aer.20221227">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0002-8282,%201944-7981"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oprea</foaf:surname>
+                        <foaf:givenName>Ryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Decisions under Risk Are Decisions under Complexity</dc:title>
+        <dcterms:abstract>We provide evidence that classic lottery anomalies like probability weighting and loss aversion are not special phenomena of risk. They also arise (and often with equal strength) when subjects evaluate deterministic, positive monetary payments that have been disaggregated to resemble lotteries. Thus, we find, e.g., apparent probability weighting in settings without probabilities and loss aversion in settings without scope for loss. Across subjects, anomalies in these deterministic tasks strongly predict the same anomalies in lotteries. These findings suggest that much of the behavior motivating our most important behavioral theories of risk derive from complexity-driven mistakes rather than true risk preferences. (JEL C91, D44, D81, D91)</dcterms:abstract>
+        <dc:date>2024-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aeaweb.org/doi/10.1257/aer.20221227</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-19 03:06:42</dcterms:dateSubmitted>
+        <bib:pages>3789-3811</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0002-8282,%201944-7981">
+        <prism:volume>114</prism:volume>
+        <dc:title>American Economic Review</dc:title>
+        <dc:identifier>DOI 10.1257/aer.20221227</dc:identifier>
+        <prism:number>12</prism:number>
+        <dcterms:alternative>American Economic Review</dcterms:alternative>
+        <dc:identifier>ISSN 0002-8282, 1944-7981</dc:identifier>
+    </bib:Journal>
+</rdf:RDF>
